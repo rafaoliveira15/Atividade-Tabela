@@ -1,4 +1,4 @@
-ATIVIDADE TABELA – NBA TEMPORADA 21/22
+🖋️ATIVIDADE TABELA – NBA TEMPORADA 21/22
 
 Este repositório apresenta uma página HTML desenvolvida para exibir uma tabela de
 classificação da NBA, com times, vitórias e jogos, utilizando também estilização em CSS.
