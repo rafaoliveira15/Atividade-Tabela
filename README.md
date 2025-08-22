@@ -34,5 +34,6 @@ ATRIBUTOS: Uso de rowspan para unir células e border para definição da borda.
 O código foi desenvolvido em HTML + CSS e organizado no VS Code, com foco em praticar a criação de tabelas, 
 aplicação de atributos e estilização para melhorar a visualização.
 
+<img width="300" height="300" alt="Captura de tela 2025-08-22 102849" src="https://github.com/user-attachments/assets/27452020-4d85-4583-9549-fd1b1cbca947" />
 
-<img width="300" height="300" alt="Captura de tela 2025-08-22 101122" src="https://github.com/user-attachments/assets/c795f9b7-cf70-4ab1-9d83-515ec3ac7e21" />
+
